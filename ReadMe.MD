@@ -31,6 +31,3 @@ The Village app will now appear on your home screen and open full‑screen like 
 - Works on iPhone, iPad, and Android (similar steps in Chrome).
 - To remove, delete it like any other app.
 
-
-This snippet is short, friendly, and Markdown‑ready — perfect for your repo’s front page.
-Would you like me to also add a screenshot placeholder section so users can visually follow along?
